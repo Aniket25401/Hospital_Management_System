@@ -20,7 +20,7 @@ To get started with this project, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Install the required dependencies.
-3. Run the Streamlit app:: `streamlit run app.py`
+3. Run the Streamlit app:: `streamlit run hospital_management.py`
 4. Access the application through your web browser.
 
 ## Usage
